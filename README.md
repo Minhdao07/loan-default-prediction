@@ -4,7 +4,7 @@
 This project predicts the probability of loan default using a dataset from Kaggle.  
 We build an **end-to-end Machine Learning pipeline**: from Exploratory Data Analysis (EDA) and data preprocessing to model training and evaluation.
 
-** Goal:** Assist financial institutions in identifying high-risk borrowers to improve decision-making and reduce credit risk.
+Goal: Assist financial institutions in identifying high-risk borrowers to improve decision-making and reduce credit risk.
 
 ---
 
